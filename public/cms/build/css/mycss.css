@@ -1,0 +1,9 @@
+#action_bar {
+    display: flex;
+    align-items: center;
+}
+#action_bar * {
+    height: 45px !important;
+    margin-bottom: 0 !important;
+    font-size: 18px;
+}
